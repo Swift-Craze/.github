@@ -7,7 +7,7 @@ We are a team of developers that are trying to make YouTube easy for content cre
 
 ## Built with ♥ by
 
-- Owner/Founder: [HyperSkys](https//github.com/HyperSkys)
+- Owner/Founder: [HyperSkys](https://github.com/HyperSkys)
 - Owner/Founder: [Fufji](https://github.com/Fufji)
 - Head Developer: [Donnorjffy](https://github.com/Donnorjffy)
 
